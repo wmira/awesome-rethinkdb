@@ -18,13 +18,21 @@
 ### Node/Javascript
 
 - [Render realtime RethinkDB results in React](https://github.com/mikemintz/react-rethinkdb)
-- [WebSocket server that proxies to RethinkDB](https://github.com/mikemintz/rethinkdb-websocket-server) 
+- [WebSocket server that proxies to RethinkDB](https://github.com/mikemintz/rethinkdb-websocket-server)
+- [RethinkDB Callbacks with ECMAScript 6 Generators](https://github.com/hden/rethinkdb-co)
+- [RethinkDB session store for Express 4](https://github.com/armenfilipetyan/express-session-rethinkdb)
 
 ### ORM
 
 #### Ruby
  - [Lightweight RethinkDB ORM](https://github.com/kureikain/epiphy)
+ - [NoBrainer](http://nobrainer.io/)
  
+#### Javascript/Node
+ - [RethinkDB js-data Adapter](https://github.com/js-data/js-data-rethinkdb)
+ - [Thinky](https://github.com/neumino/thinky)
+  
+
 ## Tutorial/Articles/Blog Posts
 
 ### Tutorial
