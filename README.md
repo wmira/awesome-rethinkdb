@@ -48,6 +48,7 @@
 
 ### Tutorial/Resources
  - [Official FAQ](https://rethinkdb.com/faq/)
+ - [An introduction to building realtime apps with RethinkDB](https://jaxenter.com/building-realtime-apps-rethinkdb-115254.html)
 
 ### Experiences
 
