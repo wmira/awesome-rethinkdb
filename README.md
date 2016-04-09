@@ -9,6 +9,16 @@
 - [Cats Of Instagram](https://github.com/rethinkdb/cats-of-instagram) - Show Nearest Cat Pics.
 - [Earthquake Map](https://github.com/rethinkdb/earthquake-map) - Show Earthquakes Nearest you.
 
+### Tutorials and Examples
+- [Todo example with RethinkDB, ExpressJS and AngularJS](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-express-promise)
+- [Todo with Callbacks](https://github.com/rethinkdb/rethinkdb-example-nodejs/tree/master/todo-angular-express)
+- [Election Analysis](https://rethinkdb.com/docs/tutorials/elections/)
+- [Asynchronous Chat](https://github.com/rethinkdb/rethinkdb-example-nodejs-chat)
+- [WebGL Molecule Viewer](https://github.com/psb/molly.js/)
+- [Pastie-like Application](https://github.com/rethinkdb/rethinkdb-example-sinatra-pastie)
+- [SuperHero DataSet](https://rethinkdb.com/docs/tutorials/superheroes/) - Create/Insert and Filtering
+- [Todo in Ember with RethinkDB](https://github.com/rethinkdb/rethinkdb-example-bottle-ember-todo)
+
 ## Libraries
 
 ### Drivers Lists
@@ -35,7 +45,8 @@
 
 ## Tutorial/Articles/Blog Posts
 
-### Tutorial
+### Tutorial/Resources
+-(Official FAQ)[https://rethinkdb.com/faq/]
 
 ### Experiences
 
