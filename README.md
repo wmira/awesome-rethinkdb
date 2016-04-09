@@ -65,3 +65,4 @@
 
 ## Communities
 
+- [Slack Channel](http://slack.rethinkdb.com/)
