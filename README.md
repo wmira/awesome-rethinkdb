@@ -18,6 +18,7 @@
 - [Pastie-like Application](https://github.com/rethinkdb/rethinkdb-example-sinatra-pastie)
 - [SuperHero DataSet](https://rethinkdb.com/docs/tutorials/superheroes/) - Create/Insert and Filtering
 - [Todo in Ember with RethinkDB](https://github.com/rethinkdb/rethinkdb-example-bottle-ember-todo)
+- [Web Blog Example](https://github.com/rethinkdb/rethinkdb-example-webpy-blog)
 
 ## Libraries
 
