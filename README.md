@@ -1,4 +1,4 @@
-# Awesome Rethinkdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome RethinkDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Useful resources for creating apps with [RethinkDB](https://rethinkdb.com)
 
@@ -19,6 +19,7 @@
 ## Tutorial/Articles/Blog Posts
 
 ## Talks/Videos
+- [Data Modeling in RethinkDB](https://www.youtube.com/watch?v=vJtDNRsUozk)
 
 
 ## Books
