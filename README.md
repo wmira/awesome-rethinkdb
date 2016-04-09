@@ -46,7 +46,7 @@
 ## Tutorial/Articles/Blog Posts
 
 ### Tutorial/Resources
--(Official FAQ)[https://rethinkdb.com/faq/]
+ - [Official FAQ](https://rethinkdb.com/faq/)
 
 ### Experiences
 
