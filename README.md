@@ -22,7 +22,7 @@
 
 ## Libraries
 
-- [Realtime open-source Backend for JavaScript apps](https://horizon.io)
+- [Realtime open-source Backend for JavaScript apps](https://horizon.io) - Horizon
 
 ### Drivers Lists
 
