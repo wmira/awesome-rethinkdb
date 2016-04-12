@@ -23,6 +23,7 @@
 ## Libraries
 
 - [Realtime open-source Backend for JavaScript apps](https://horizon.io) - Horizon
+- [Reqlite - reql in javascript](https://github.com/neumino/reqlite)
 
 ### Drivers Lists
 
@@ -53,11 +54,13 @@
  - [An introduction to building realtime apps with RethinkDB](https://jaxenter.com/building-realtime-apps-rethinkdb-115254.html)
  - [Modeling Data Tradeoff with RethinkDB](http://blog.hiphipjorge.com/the-most-important-tradeoff-when-modeling-data-in-rethinkdb/)
  - [Data Modelling - Official Docs](https://rethinkdb.com/docs/data-modeling/)
+ - [Building better Node.JS apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
 
 ### Experiences
 
 - [We use RethinkDB at Workshape.io](http://blog.workshape.io/we-use-rethinkdb-at-workshapeio/)
 - [React, Flux, RethinkDB and SageMathCloud](http://sagemath.blogspot.sg/2015/08/react-flux-rethinkdb-and-sagemathcloud.html)
+- [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
 
 ## Talks/Videos
 - [Data Modeling in RethinkDB](https://www.youtube.com/watch?v=vJtDNRsUozk)
