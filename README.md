@@ -64,6 +64,7 @@
 
 ## Talks/Videos
 - [Data Modeling in RethinkDB](https://www.youtube.com/watch?v=vJtDNRsUozk)
+- [Rob Conery - Rethinking NoSQL](https://www.youtube.com/watch?v=Ee1v_SuECRk) - Four and a Half Reasons Why RethinkDB Is Worth a Look
 
 
 ## Books
@@ -75,3 +76,7 @@
 ## Communities
 
 - [Slack Channel](http://slack.rethinkdb.com/)
+
+## Contributing
+
+Follow the guidlines in this [link](https://github.com/wmira/awesome-rethinkdb/blob/master/CONTRIBUTING.md)
