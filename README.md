@@ -22,6 +22,8 @@
 
 ## Libraries
 
+- [Realtime open-source Backend for JavaScript apps](https://horizon.io)
+
 ### Drivers Lists
 
 - [Official And Community Drivers](https://www.rethinkdb.com/docs/install-drivers/)
@@ -49,10 +51,13 @@
 ### Tutorial/Resources
  - [Official FAQ](https://rethinkdb.com/faq/)
  - [An introduction to building realtime apps with RethinkDB](https://jaxenter.com/building-realtime-apps-rethinkdb-115254.html)
+ - [Modeling Data Tradeoff with RethinkDB](http://blog.hiphipjorge.com/the-most-important-tradeoff-when-modeling-data-in-rethinkdb/)
+ - [Data Modelling - Official Docs](https://rethinkdb.com/docs/data-modeling/)
 
 ### Experiences
 
 - [We use RethinkDB at Workshape.io](http://blog.workshape.io/we-use-rethinkdb-at-workshapeio/)
+- [React, Flux, RethinkDB and SageMathCloud](http://sagemath.blogspot.sg/2015/08/react-flux-rethinkdb-and-sagemathcloud.html)
 
 ## Talks/Videos
 - [Data Modeling in RethinkDB](https://www.youtube.com/watch?v=vJtDNRsUozk)
