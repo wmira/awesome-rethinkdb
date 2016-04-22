@@ -1,6 +1,6 @@
 # Awesome RethinkDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for creating apps with [RethinkDB](https://rethinkdb.com)
+> Useful resources for creating apps and working with [RethinkDB](https://rethinkdb.com)
 
 ## Example apps
 
